@@ -1,5 +1,5 @@
 # Shape Wars
-Shape Wars is a simple desktop 2-player battle game written in Java inspired by Super Smash Bros. Brawl and Rocket League.
+Shape Wars is a 2-player desktop battle game written in Java inspired by Super Smash Bros. Brawl and Rocket League.
 
 ## Instructions
 If the instructions in the game are not clear enough, here is an explication of this game's operations:
@@ -29,7 +29,6 @@ If the instructions in the game are not clear enough, here is an explication of 
 * If a player collides with a Red circle, he receives -5 damage points.
 
 ### Prerequisites
-A Java IDE
 Java 8 or later
 
 ## Authors 
