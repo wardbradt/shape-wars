@@ -5,7 +5,7 @@ Shape Wars is a simple desktop 2-player battle game written in Java inspired by 
 If the instructions in the game are not clear enough, here is an explication of this game's operations:
 
 ### General
-1. When a Player A's vertex collides with Player B's side, Player A inflicts damage upon Player B.
+1. When Player A's vertex collides with Player B's side, Player A inflicts damage upon Player B.
 2. After two players collide, there is a two second grace period where neither player can inflict
    damage upon the other. This is indicated by a faded color and a timer in the middle of the screen.
    
