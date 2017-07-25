@@ -1,7 +1,12 @@
 /**
- * Created by wardbradt on 5/26/17.
+ * An extension of Java's java.awt.Polygon class that is designed for 2D games where tracking the location
+ * and movement of a Polygon are necessary.
+ *
+ * Created by Ward Bradt on 5/26/17.
+ *
+ * Sources Used:
+ * // https://stackoverflow.com/questions/15690846/java-collision-detection-between-two-shape-objects
  */
-// https://stackoverflow.com/questions/15690846/java-collision-detection-between-two-shape-objects
 import java.awt.*;
 import java.awt.geom.Area;
 public class PlayablePolygon {

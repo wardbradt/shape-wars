@@ -24,10 +24,6 @@ public abstract class CircleEntity {
         ellipse = new Ellipse2D.Double(x, y, diameter, diameter);
     }
 
-    public void updateEllipse() {
-        ellipse = new Ellipse2D.Double(center[0], center[1], diameter, diameter);
-    }
-
     public void incrementTimeLived(double x) {
         timeLived += x;
     }
