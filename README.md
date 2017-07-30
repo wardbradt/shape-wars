@@ -29,7 +29,7 @@ If the instructions in the game are not clear enough, here is an explication of 
 * If a player collides with a Red circle, he receives -5 damage points.
 
 ### Prerequisites
-Java 8 or later
+Java
 
 ## Authors 
 * **Ward Bradt** - *Initial work* - [wardbradt](https://github.com/wardbradt)
