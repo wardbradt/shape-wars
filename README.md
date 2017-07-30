@@ -30,6 +30,9 @@ If the instructions in the game are not clear enough, here is an explication of 
 * First player who reaches or exceeds 100 damage points loses.
 * If a player collides with a Red circle, he receives -5 damage points.
 
+Here is a game of Damage Battalion being played with pentagons:
+![Damage Battalion](https://github.com/wardbradt/shape-wars/blob/master/damage%20battalion%20screenshot.png)
+
 ### Prerequisites
 Java
 
