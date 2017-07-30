@@ -12,6 +12,8 @@ If the instructions in the game are not clear enough, here is an explication of 
 #### Help Screen
 * Press the '?' button in the top right corner of the menu screen for help
 
+![Menu Gif](https://github.com/wardbradt/shape-wars/blob/master/shapewarsmenugif.gif)
+
 #### Side Mania
 * To play Side Mania, click on the right side of the menu's image.
 * Click on the shape each player will spawn as. I recommend beginners start with no more than 6 sides.
