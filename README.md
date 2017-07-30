@@ -31,7 +31,7 @@ If the instructions in the game are not clear enough, here is an explication of 
 * If a player collides with a Red circle, he receives -5 damage points.
 
 Here is a game of Damage Battalion being played with pentagons:
-![Damage Battalion](wardbradt/shape-wars/blob/master/readme%20images/damage%20battalion%20screenshot.png)
+![Damage Battalion](https://github.com/wardbradt/shape-wars/blob/master/readme%20images/damage%20battalion%20screenshot.png)
 
 ### Prerequisites
 Java
